@@ -12,6 +12,6 @@ The **'Data Exploration Queries.sql'** in this repository leverages the followin
 * **Creating Views**: Creating views to store reusable queries and simplify complex data retrieval operations.
 * *Converting Data Types*: Handling data type conversions to ensure compatibility and accurate calculations
 
-**'Queries For Visualization.sql'** contains the SQL queries for the insights that have been visualized using Tableau. The repository contains the Excel files for these insights of Covid Deaths.
+**'Queries For Visualization.sql'** contains the SQL queries for the insights that have been visualized using Tableau. The repository contains the Excel files for these insights of Covid Deaths including Global Numbers, Death Count by Continent and Country, Percent Population Infected by Country over time.
 
 You can view the Tableau Dashboard for the COVID-19 Analysis [Here](https://public.tableau.com/app/profile/riya.shah5410/viz/COVID19Analysis_17193058066240/Dashboard).
