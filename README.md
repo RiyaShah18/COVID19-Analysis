@@ -10,7 +10,7 @@ The **'Data Exploration Queries.sql'** in this repository leverages the followin
 * **Window Functions**: Employing window functions to perform rolling calculations and obtain cumulative values over a specific window or partition.
 * **Aggregate Functions**: Utilizing aggregate functions like SUM, MAX, and COUNT to calculate total cases, total deaths, and other statistics.
 * **Creating Views**: Creating views to store reusable queries and simplify complex data retrieval operations.
-* *Converting Data Types*: Handling data type conversions to ensure compatibility and accurate calculations
+* **Converting Data Types**: Handling data type conversions to ensure compatibility and accurate calculations
 
 **'Queries For Visualization.sql'** contains the SQL queries for the insights that have been visualized using Tableau. The repository contains the Excel files for these insights of Covid Deaths including Global Numbers, Death Count by Continent and Country, Percent Population Infected by Country over time.
 
